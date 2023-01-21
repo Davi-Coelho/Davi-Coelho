@@ -1,4 +1,5 @@
-### Hi there 👋
+![Davi's GitHub stats](https://github-readme-stats-dqgxwtdni-davi-coelho.vercel.app/api?username=Davi-Coelho&show_icons=true&theme=dark)
+![Davi's GitHub stats](https://github-readme-stats-dqgxwtdni-davi-coelho.vercel.app/api/top-langs/?username=Davi-Coelho&theme=dark)
 
 <!--
 **Davi-Coelho/Davi-Coelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
